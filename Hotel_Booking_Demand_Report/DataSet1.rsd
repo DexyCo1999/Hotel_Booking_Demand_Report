@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <Description />
+  <DataSet Name="DataSet1">
+    <Query>
+      <DataSourceReference>PSP_Hotel_Booking</DataSourceReference>
+      <CommandText>SELECT        Is_canceled
+FROM            Hotel_bookings
+WHERE        (Is_canceled = 1)</CommandText>
+    </Query>
+    <Fields>
+      <Field Name="Is_canceled">
+        <DataField>Is_canceled</DataField>
+        <rd:TypeName>System.Decimal</rd:TypeName>
+      </Field>
+    </Fields>
+  </DataSet>
+</SharedDataSet>

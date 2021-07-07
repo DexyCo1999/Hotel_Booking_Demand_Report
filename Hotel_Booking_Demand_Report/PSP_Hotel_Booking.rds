@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PSP_Hotel_Booking">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=147.91.175.176;Initial Catalog=it12g2017</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>9a738cb4-59f2-4b23-94e4-b56358b8e41e</DataSourceID>
+</RptDataSource>

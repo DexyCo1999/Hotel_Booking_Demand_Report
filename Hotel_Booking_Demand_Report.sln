@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Hotel_Booking_Demand_Report", "Hotel_Booking_Demand_Report\Hotel_Booking_Demand_Report.rptproj", "{351766F6-8907-4A4D-9B21-1C20CA0FF5C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{351766F6-8907-4A4D-9B21-1C20CA0FF5C0}.Debug|Default.ActiveCfg = Debug
+		{351766F6-8907-4A4D-9B21-1C20CA0FF5C0}.Debug|Default.Build.0 = Debug
+		{351766F6-8907-4A4D-9B21-1C20CA0FF5C0}.Debug|Default.Deploy.0 = Debug
+		{351766F6-8907-4A4D-9B21-1C20CA0FF5C0}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{351766F6-8907-4A4D-9B21-1C20CA0FF5C0}.DebugLocal|Default.Build.0 = DebugLocal
+		{351766F6-8907-4A4D-9B21-1C20CA0FF5C0}.Release|Default.ActiveCfg = Release
+		{351766F6-8907-4A4D-9B21-1C20CA0FF5C0}.Release|Default.Build.0 = Release
+		{351766F6-8907-4A4D-9B21-1C20CA0FF5C0}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F3B2E2D-0F99-455F-A1DD-EB4456CAFAC5}
+	EndGlobalSection
+EndGlobal
